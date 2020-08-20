@@ -1,0 +1,1 @@
+							<li class="{if $sub_menu == 'add-videos' && $module == 'add'}active{/if}"><a href="videos.php?m=add">Grab Video</a></li>
