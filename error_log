@@ -1,0 +1,1237 @@
+[11-Jan-2020 00:20:12 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home2/velotube/public_html/templates/frontend/v8/user_profile_menu.tpl"  on line 17 "<li class="nav-link {if $profile_menu == 'blocks'active{/if}"><a href="{$relative}/user/blocks">{t c='user.block_list'}</a></li>"  - Unexpected "active", expected one of: "}" <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 17
+[11-Jan-2020 01:41:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[11-Jan-2020 02:00:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[11-Jan-2020 03:10:37 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home2/velotube/public_html/include/function_conversion_fp.php on line 277
+[11-Jan-2020 03:10:37 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/velotube/public_html/include/function_conversion_fp.php on line 277
+[11-Jan-2020 03:10:37 America/Chicago] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/velotube/public_html/include/function_conversion_fp.php on line 292
+[11-Jan-2020 04:19:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[11-Jan-2020 04:36:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[11-Jan-2020 06:17:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[11-Jan-2020 06:33:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[11-Jan-2020 06:50:33 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home2/velotube/public_html/classes/image.class.php on line 114
+[11-Jan-2020 06:50:33 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home2/velotube/public_html/classes/image.class.php on line 188
+[11-Jan-2020 06:50:33 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home2/velotube/public_html/classes/image.class.php on line 131
+[11-Jan-2020 06:56:27 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home2/velotube/public_html/classes/image.class.php on line 114
+[11-Jan-2020 06:56:27 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home2/velotube/public_html/classes/image.class.php on line 188
+[11-Jan-2020 06:56:27 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home2/velotube/public_html/classes/image.class.php on line 131
+[11-Jan-2020 06:58:53 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home2/velotube/public_html/classes/image.class.php on line 114
+[11-Jan-2020 06:58:53 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home2/velotube/public_html/classes/image.class.php on line 188
+[11-Jan-2020 06:58:53 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home2/velotube/public_html/classes/image.class.php on line 131
+[11-Jan-2020 07:08:50 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home2/velotube/public_html/classes/image.class.php on line 114
+[11-Jan-2020 07:08:50 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home2/velotube/public_html/classes/image.class.php on line 188
+[11-Jan-2020 07:08:50 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home2/velotube/public_html/classes/image.class.php on line 131
+[11-Jan-2020 07:18:01 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home2/velotube/public_html/classes/image.class.php on line 114
+[11-Jan-2020 07:18:01 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home2/velotube/public_html/classes/image.class.php on line 188
+[11-Jan-2020 07:18:01 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home2/velotube/public_html/classes/image.class.php on line 131
+[11-Jan-2020 07:18:21 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home2/velotube/public_html/classes/image.class.php on line 114
+[11-Jan-2020 07:18:21 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home2/velotube/public_html/classes/image.class.php on line 188
+[11-Jan-2020 07:18:21 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home2/velotube/public_html/classes/image.class.php on line 131
+[11-Jan-2020 07:19:36 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home2/velotube/public_html/classes/image.class.php on line 114
+[11-Jan-2020 07:19:36 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home2/velotube/public_html/classes/image.class.php on line 188
+[11-Jan-2020 07:19:36 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home2/velotube/public_html/classes/image.class.php on line 131
+[11-Jan-2020 07:21:59 America/Chicago] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home2/velotube/public_html/classes/image.class.php on line 114
+[11-Jan-2020 07:21:59 America/Chicago] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home2/velotube/public_html/classes/image.class.php on line 188
+[11-Jan-2020 07:21:59 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home2/velotube/public_html/classes/image.class.php on line 131
+[11-Jan-2020 07:22:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[11-Jan-2020 07:43:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[11-Jan-2020 08:09:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[11-Jan-2020 08:22:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[11-Jan-2020 11:04:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[11-Jan-2020 11:42:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[11-Jan-2020 12:18:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[11-Jan-2020 16:55:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[11-Jan-2020 17:55:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[11-Jan-2020 19:02:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[11-Jan-2020 19:16:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[11-Jan-2020 21:05:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[11-Jan-2020 21:13:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[11-Jan-2020 23:10:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[11-Jan-2020 23:57:27 America/Chicago] PHP Fatal error:  Cannot declare class VImageConv, because the name is already in use in /home2/velotube/public_html/classes/image.class.php on line 3
+[11-Jan-2020 23:58:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/velotube/public_html/modules/album/edit.php on line 91
+[11-Jan-2020 23:59:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/velotube/public_html/modules/album/edit.php on line 91
+[12-Jan-2020 00:01:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/velotube/public_html/modules/album/edit.php on line 91
+[12-Jan-2020 00:02:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/velotube/public_html/modules/album/edit.php on line 93
+[12-Jan-2020 00:05:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/velotube/public_html/modules/album/edit.php on line 93
+[12-Jan-2020 00:07:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/velotube/public_html/modules/album/edit.php on line 93
+[12-Jan-2020 00:13:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[12-Jan-2020 00:25:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[12-Jan-2020 01:00:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[12-Jan-2020 02:02:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[12-Jan-2020 02:25:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/notice.php:39
+Stack trace:
+#0 /home2/velotube/public_html/loader.php(53): require()
+#1 {main}
+  thrown in /home2/velotube/public_html/notice.php on line 39
+[12-Jan-2020 02:56:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[12-Jan-2020 04:23:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[12-Jan-2020 04:51:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[12-Jan-2020 05:40:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[12-Jan-2020 06:06:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[12-Jan-2020 06:55:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[12-Jan-2020 07:19:49 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home2/velotube/public_html/include/ajax/user_message.php on line 27
+[12-Jan-2020 07:20:10 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home2/velotube/public_html/include/ajax/user_message.php on line 27
+[12-Jan-2020 08:04:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[12-Jan-2020 11:38:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[12-Jan-2020 11:38:45 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home2/velotube/public_html/include/function_conversion_fp.php on line 277
+[12-Jan-2020 11:38:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/velotube/public_html/include/function_conversion_fp.php on line 277
+[12-Jan-2020 11:38:45 America/Chicago] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/velotube/public_html/include/function_conversion_fp.php on line 292
+[12-Jan-2020 11:56:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[12-Jan-2020 13:52:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[12-Jan-2020 16:31:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[12-Jan-2020 17:12:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[12-Jan-2020 18:17:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[12-Jan-2020 19:38:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[12-Jan-2020 20:04:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[12-Jan-2020 20:32:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[12-Jan-2020 22:12:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[12-Jan-2020 23:17:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[12-Jan-2020 23:45:38 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home2/velotube/public_html/include/function_conversion_fp.php on line 277
+[12-Jan-2020 23:45:38 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/velotube/public_html/include/function_conversion_fp.php on line 277
+[12-Jan-2020 23:45:38 America/Chicago] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/velotube/public_html/include/function_conversion_fp.php on line 292
+[13-Jan-2020 00:21:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[13-Jan-2020 03:12:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(53): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[13-Jan-2020 05:06:45 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home2/velotube/public_html/templates/frontend/v8/tags.tpl"  on line 14 "<a href="{$relative}/tags/{$tags[i].name}" title="{$tags[i].tag}">{$tags[i].tag} {firstletter}</a>" unknown tag 'firstletter' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 14
+[13-Jan-2020 05:07:04 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home2/velotube/public_html/templates/frontend/v8/tags.tpl"  on line 14 "<a href="{$relative}/tags/{$tags[i].name}" title="{$tags[i].tag}">{$tags[i].tag} {firstletter}</a>" unknown tag 'firstletter' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 14
+[13-Jan-2020 06:05:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[13-Jan-2020 07:46:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[13-Jan-2020 10:14:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[13-Jan-2020 11:09:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[13-Jan-2020 11:09:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/video.php:192
+Stack trace:
+#0 /home2/velotube/public_html/loader.php(54): require()
+#1 {main}
+  thrown in /home2/velotube/public_html/video.php on line 192
+[13-Jan-2020 11:29:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[13-Jan-2020 12:22:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[13-Jan-2020 13:26:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[13-Jan-2020 14:07:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[13-Jan-2020 18:14:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[13-Jan-2020 19:08:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[13-Jan-2020 19:26:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[13-Jan-2020 22:02:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[13-Jan-2020 22:30:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[13-Jan-2020 23:45:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[14-Jan-2020 01:46:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[14-Jan-2020 04:05:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[14-Jan-2020 05:46:10 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home2/velotube/public_html/video.php on line 111
+[14-Jan-2020 05:46:23 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home2/velotube/public_html/video.php on line 111
+[14-Jan-2020 05:59:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[14-Jan-2020 07:22:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/photo.php:95
+Stack trace:
+#0 /home2/velotube/public_html/loader.php(54): require()
+#1 {main}
+  thrown in /home2/velotube/public_html/photo.php on line 95
+[14-Jan-2020 08:50:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[14-Jan-2020 09:04:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[14-Jan-2020 09:34:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[14-Jan-2020 10:50:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[14-Jan-2020 11:35:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[14-Jan-2020 12:21:32 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home2/velotube/public_html/include/function_conversion_fp.php on line 277
+[14-Jan-2020 12:21:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/velotube/public_html/include/function_conversion_fp.php on line 277
+[14-Jan-2020 12:21:32 America/Chicago] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/velotube/public_html/include/function_conversion_fp.php on line 292
+[14-Jan-2020 12:21:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[14-Jan-2020 15:31:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[14-Jan-2020 18:47:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[14-Jan-2020 18:56:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[14-Jan-2020 20:09:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[14-Jan-2020 20:56:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[14-Jan-2020 20:56:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[14-Jan-2020 23:00:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[15-Jan-2020 00:46:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[15-Jan-2020 05:12:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[15-Jan-2020 05:30:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[15-Jan-2020 07:04:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[15-Jan-2020 07:08:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[15-Jan-2020 07:57:16 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home2/velotube/public_html/templates/frontend/v8/footer.tpl"  on line 36 "<li><a href="https://www.reddit.com/user/{reddit_id}/" target="_blank" rel="nofollow"><i class="fab fa-reddit"></i>&nbsp;&nbsp;Reddit</a></li>" unknown tag 'reddit_id' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 36
+[15-Jan-2020 07:57:16 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home2/velotube/public_html/templates/frontend/v8/footer.tpl"  on line 36 "<li><a href="https://www.reddit.com/user/{reddit_id}/" target="_blank" rel="nofollow"><i class="fab fa-reddit"></i>&nbsp;&nbsp;Reddit</a></li>" unknown tag 'reddit_id' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 36
+[15-Jan-2020 07:57:19 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home2/velotube/public_html/templates/frontend/v8/footer.tpl"  on line 36 "<li><a href="https://www.reddit.com/user/{reddit_id}/" target="_blank" rel="nofollow"><i class="fab fa-reddit"></i>&nbsp;&nbsp;Reddit</a></li>" unknown tag 'reddit_id' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 36
+[15-Jan-2020 09:35:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[15-Jan-2020 10:17:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[15-Jan-2020 10:41:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[15-Jan-2020 10:46:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[15-Jan-2020 10:54:09 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home2/velotube/public_html/include/function_conversion_fp.php on line 277
+[15-Jan-2020 10:54:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/velotube/public_html/include/function_conversion_fp.php on line 277
+[15-Jan-2020 10:54:09 America/Chicago] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/velotube/public_html/include/function_conversion_fp.php on line 292
+[15-Jan-2020 11:04:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[15-Jan-2020 18:12:14 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:quick_jumps.tpl' in 'user_games.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[15-Jan-2020 18:35:48 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:quick_jumps.tpl' in 'user_games.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[15-Jan-2020 21:04:28 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:quick_jumps.tpl' in 'user_games.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[15-Jan-2020 21:22:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[15-Jan-2020 21:25:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[15-Jan-2020 22:01:59 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:quick_jumps.tpl' in 'user_games.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[15-Jan-2020 22:31:40 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:quick_jumps.tpl' in 'user_games.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[15-Jan-2020 23:31:57 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:quick_jumps.tpl' in 'user_games.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[16-Jan-2020 00:35:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[16-Jan-2020 01:09:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[16-Jan-2020 01:09:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[16-Jan-2020 01:56:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/include/function_user.php:279
+Stack trace:
+#0 /home2/velotube/public_html/user.php(126): get_user_games(357)
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/include/function_user.php on line 279
+[16-Jan-2020 01:58:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/games.php:18
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/games.php on line 18
+[16-Jan-2020 02:05:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/include/function_user.php:279
+Stack trace:
+#0 /home2/velotube/public_html/user.php(126): get_user_games(343)
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/include/function_user.php on line 279
+[16-Jan-2020 02:15:20 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 02:15:20 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 02:15:35 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 02:15:35 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 02:16:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_user_games() in /home2/velotube/public_html/user.php:126
+Stack trace:
+#0 /home2/velotube/public_html/loader.php(54): require()
+#1 {main}
+  thrown in /home2/velotube/public_html/user.php on line 126
+[16-Jan-2020 02:24:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_user_games() in /home2/velotube/public_html/user.php:126
+Stack trace:
+#0 /home2/velotube/public_html/loader.php(54): require()
+#1 {main}
+  thrown in /home2/velotube/public_html/user.php on line 126
+[16-Jan-2020 02:27:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[16-Jan-2020 02:32:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_user_games() in /home2/velotube/public_html/user.php:126
+Stack trace:
+#0 /home2/velotube/public_html/loader.php(54): require()
+#1 {main}
+  thrown in /home2/velotube/public_html/user.php on line 126
+[16-Jan-2020 02:36:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[16-Jan-2020 02:36:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_user_games() in /home2/velotube/public_html/user.php:126
+Stack trace:
+#0 /home2/velotube/public_html/loader.php(54): require()
+#1 {main}
+  thrown in /home2/velotube/public_html/user.php on line 126
+[16-Jan-2020 02:43:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_user_games() in /home2/velotube/public_html/user.php:126
+Stack trace:
+#0 /home2/velotube/public_html/loader.php(54): require()
+#1 {main}
+  thrown in /home2/velotube/public_html/user.php on line 126
+[16-Jan-2020 03:09:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_user_games() in /home2/velotube/public_html/user.php:126
+Stack trace:
+#0 /home2/velotube/public_html/loader.php(54): require()
+#1 {main}
+  thrown in /home2/velotube/public_html/user.php on line 126
+[16-Jan-2020 04:27:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[16-Jan-2020 04:29:37 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 04:29:37 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 05:55:34 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 05:55:34 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 06:02:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[16-Jan-2020 06:02:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[16-Jan-2020 06:49:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[16-Jan-2020 07:08:50 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home2/velotube/public_html/include/function_conversion_fp.php on line 277
+[16-Jan-2020 07:08:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/velotube/public_html/include/function_conversion_fp.php on line 277
+[16-Jan-2020 07:08:50 America/Chicago] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home2/velotube/public_html/include/function_conversion_fp.php on line 292
+[16-Jan-2020 07:12:20 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 07:12:20 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 07:15:07 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 07:15:07 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 10:27:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[16-Jan-2020 11:59:54 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 11:59:54 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 12:23:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[16-Jan-2020 12:32:17 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 12:32:17 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 13:19:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[16-Jan-2020 13:19:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[16-Jan-2020 13:22:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[16-Jan-2020 15:57:22 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 15:57:22 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 16:11:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[16-Jan-2020 16:13:29 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 16:13:29 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 16:41:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[16-Jan-2020 18:11:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[16-Jan-2020 18:43:13 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 18:43:13 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 19:21:59 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 19:21:59 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[16-Jan-2020 20:08:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[16-Jan-2020 20:08:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[16-Jan-2020 20:55:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[17-Jan-2020 00:16:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[17-Jan-2020 01:10:30 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[17-Jan-2020 01:10:30 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[17-Jan-2020 02:11:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[17-Jan-2020 03:04:08 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[17-Jan-2020 03:04:09 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[17-Jan-2020 03:36:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[17-Jan-2020 03:44:25 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:static/whatis.tpl' in 'login.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[17-Jan-2020 03:44:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[17-Jan-2020 04:46:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[17-Jan-2020 06:15:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[17-Jan-2020 07:30:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[17-Jan-2020 07:50:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[17-Jan-2020 10:13:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[17-Jan-2020 11:50:30 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[17-Jan-2020 11:50:30 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[17-Jan-2020 12:05:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[17-Jan-2020 12:31:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/feeds.php:126
+Stack trace:
+#0 /home2/velotube/public_html/loader.php(54): require()
+#1 {main}
+  thrown in /home2/velotube/public_html/feeds.php on line 126
+[17-Jan-2020 15:15:16 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home2/velotube/public_html/templates/frontend/bright-magenta/index.tpl"  on line 16 "<div class="col-6 col-sm-6 col-md-4 col-lg-4 col-xl-3 {if $smarty.sectio.i.index > 5}d-none{/if}">" $smarty.sectio is not defined <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 16
+[17-Jan-2020 15:52:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[17-Jan-2020 15:53:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[17-Jan-2020 16:35:18 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home2/velotube/public_html/templates/frontend/bright-magenta/index.tpl"  on line 61 "{if}" missing if condition <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 61
+[17-Jan-2020 17:48:55 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home2/velotube/public_html/templates/frontend/bright-magenta/index.tpl"  on line 13 "<div class="content-left {if !$adv && !adv.help}w-100{/if}">"  - Unexpected ".", expected one of: "}" <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 13
+[17-Jan-2020 20:37:34 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[17-Jan-2020 20:37:34 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[17-Jan-2020 21:41:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[17-Jan-2020 22:01:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[17-Jan-2020 22:10:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[17-Jan-2020 23:13:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[18-Jan-2020 02:06:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[18-Jan-2020 03:00:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[18-Jan-2020 03:23:23 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home2/velotube/public_html/templates/frontend/bright-magenta/categories.tpl"  on line 88 "{elseif $adv.help}" unexpected closing tag <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 88
+[18-Jan-2020 07:11:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_user_total_subscribers() in /home2/velotube/public_html/video.php:227
+Stack trace:
+#0 /home2/velotube/public_html/loader.php(54): require()
+#1 {main}
+  thrown in /home2/velotube/public_html/video.php on line 227
+[18-Jan-2020 08:24:07 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[18-Jan-2020 08:24:07 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[18-Jan-2020 08:53:08 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[18-Jan-2020 08:53:08 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[18-Jan-2020 11:41:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[18-Jan-2020 12:40:05 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[18-Jan-2020 12:40:05 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[18-Jan-2020 13:45:12 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[18-Jan-2020 13:47:24 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[18-Jan-2020 14:03:23 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[18-Jan-2020 14:04:01 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[18-Jan-2020 14:04:47 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[18-Jan-2020 14:05:40 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[18-Jan-2020 14:06:53 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[18-Jan-2020 14:12:48 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[18-Jan-2020 14:15:20 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[18-Jan-2020 15:59:23 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[18-Jan-2020 15:59:23 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[18-Jan-2020 16:37:31 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[18-Jan-2020 17:17:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[18-Jan-2020 17:22:17 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[18-Jan-2020 18:00:30 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[18-Jan-2020 19:13:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[18-Jan-2020 20:17:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[18-Jan-2020 20:29:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[18-Jan-2020 21:32:15 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[18-Jan-2020 21:32:15 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[18-Jan-2020 21:40:07 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[18-Jan-2020 21:57:28 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[18-Jan-2020 22:01:38 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[18-Jan-2020 22:01:41 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[18-Jan-2020 22:28:41 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[18-Jan-2020 22:28:41 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[18-Jan-2020 22:34:44 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[18-Jan-2020 22:50:28 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[18-Jan-2020 22:50:28 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[19-Jan-2020 00:32:10 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[19-Jan-2020 02:01:29 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[19-Jan-2020 04:53:57 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[19-Jan-2020 05:23:44 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[19-Jan-2020 07:33:00 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[19-Jan-2020 07:40:29 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[19-Jan-2020 07:40:29 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[19-Jan-2020 08:26:07 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/velotube/public_html/loader.php on line 54
+[19-Jan-2020 08:26:07 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/velotube/public_html/loader.php on line 54
+[19-Jan-2020 08:28:36 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[19-Jan-2020 09:23:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[19-Jan-2020 11:05:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/modules/user/wall.php:15
+Stack trace:
+#0 /home2/velotube/public_html/user.php(55): require()
+#1 /home2/velotube/public_html/loader.php(54): require('/home2/velotube...')
+#2 {main}
+  thrown in /home2/velotube/public_html/modules/user/wall.php on line 15
+[19-Jan-2020 12:00:54 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[19-Jan-2020 12:26:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/screept/public_html/include/config.php:277
+Stack trace:
+#0 /home2/screept/public_html/index.php(3): require()
+#1 {main}
+  thrown in /home2/screept/public_html/include/config.php on line 277
+[19-Jan-2020 12:27:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/screept/public_html/include/config.php:277
+Stack trace:
+#0 /home2/screept/public_html/search.php(3): require()
+#1 /home2/screept/public_html/loader.php(54): require('/home2/screept/...')
+#2 {main}
+  thrown in /home2/screept/public_html/include/config.php on line 277
+[19-Jan-2020 12:28:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/screept/public_html/include/config.php:277
+Stack trace:
+#0 /home2/screept/public_html/signup.php(3): require()
+#1 /home2/screept/public_html/loader.php(54): require('/home2/screept/...')
+#2 {main}
+  thrown in /home2/screept/public_html/include/config.php on line 277
+[19-Jan-2020 12:28:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/screept/public_html/include/config.php:277
+Stack trace:
+#0 /home2/screept/public_html/search.php(3): require()
+#1 /home2/screept/public_html/loader.php(54): require('/home2/screept/...')
+#2 {main}
+  thrown in /home2/screept/public_html/include/config.php on line 277
+[19-Jan-2020 12:28:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/screept/public_html/include/config.php:263
+Stack trace:
+#0 /home2/screept/public_html/index.php(3): require()
+#1 {main}
+  thrown in /home2/screept/public_html/include/config.php on line 263
+[19-Jan-2020 12:28:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/screept/public_html/include/config.php:263
+Stack trace:
+#0 /home2/screept/public_html/index.php(3): require()
+#1 {main}
+  thrown in /home2/screept/public_html/include/config.php on line 263
+[19-Jan-2020 12:29:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/screept/public_html/include/config.php:263
+Stack trace:
+#0 /home2/screept/public_html/confirm.php(3): require()
+#1 /home2/screept/public_html/loader.php(54): require('/home2/screept/...')
+#2 {main}
+  thrown in /home2/screept/public_html/include/config.php on line 263
+[19-Jan-2020 12:29:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/screept/public_html/include/config.php:263
+Stack trace:
+#0 /home2/screept/public_html/search.php(3): require()
+#1 /home2/screept/public_html/loader.php(54): require('/home2/screept/...')
+#2 {main}
+  thrown in /home2/screept/public_html/include/config.php on line 263
+[19-Jan-2020 12:30:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/screept/public_html/include/config.php:263
+Stack trace:
+#0 /home2/screept/public_html/search.php(3): require()
+#1 /home2/screept/public_html/loader.php(54): require('/home2/screept/...')
+#2 {main}
+  thrown in /home2/screept/public_html/include/config.php on line 263
+[19-Jan-2020 12:31:49 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home2/screept/public_html/include/config.php on line 267
+[19-Jan-2020 12:33:31 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home2/screept/public_html/include/config.php on line 267
+[19-Jan-2020 12:33:32 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home2/screept/public_html/include/config.php on line 267
+[19-Jan-2020 12:46:12 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/screept/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[19-Jan-2020 12:52:57 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/screept/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[19-Jan-2020 14:23:44 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 14:23:44 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 14:43:00 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 14:43:00 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 14:43:01 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 14:43:01 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 15:06:26 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 15:06:26 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 15:12:29 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 15:12:29 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 15:42:22 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 15:42:22 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 16:18:19 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 16:18:19 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 16:18:21 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 16:18:21 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 16:51:12 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 16:51:12 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 17:05:07 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 17:05:07 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 17:05:10 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 17:05:10 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 17:32:00 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 17:32:00 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 17:32:02 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 17:32:02 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 17:46:57 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 17:46:57 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 17:46:59 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 17:46:59 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 17:49:38 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 17:49:38 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 18:52:24 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 18:52:24 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 19:53:37 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 19:53:37 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 19:53:39 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 19:53:39 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 20:28:05 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 20:28:05 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 20:28:07 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 20:28:07 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 20:44:14 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 20:44:14 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 22:26:36 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 22:26:36 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 22:26:37 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 22:26:37 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 23:09:44 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[19-Jan-2020 23:09:45 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 01:34:58 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 01:34:58 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 01:35:03 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 01:35:03 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 01:44:54 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 01:44:54 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 02:03:44 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 02:03:44 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 02:03:47 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 02:03:47 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 02:29:44 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 02:29:44 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 02:29:50 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 02:29:50 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 02:50:15 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 02:50:15 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 02:56:06 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 02:56:06 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 02:56:53 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 02:56:53 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 03:01:22 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 03:01:22 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 03:17:00 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 03:17:00 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 04:04:44 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 04:04:44 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 04:41:17 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 04:41:17 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 04:43:17 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 04:43:17 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 05:03:56 America/Chicago] PHP Fatal error:  Class 'PHPMailer\PHPMailer\Exception' not found in /home2/screept/public_html/include/phpmailer/PHPMailer.php on line 1410
+[20-Jan-2020 05:16:59 America/Chicago] PHP Fatal error:  Class 'PHPMailer\PHPMailer\Exception' not found in /home2/screept/public_html/include/phpmailer/PHPMailer.php on line 1410
+[20-Jan-2020 05:17:53 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/screept/public_html/include/phpmailer/PHPMailer.php:1410
+Stack trace:
+#0 /home2/screept/public_html/include/phpmailer/PHPMailer.php(1348): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/screept/public_html/signup.php(109): PHPMailer\PHPMailer\PHPMailer->send()
+#2 /home2/screept/public_html/loader.php(54): require('/home2/screept/...')
+#3 {main}
+  thrown in /home2/screept/public_html/include/phpmailer/PHPMailer.php on line 1410
+[20-Jan-2020 05:18:30 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 05:18:30 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 05:24:43 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 05:24:43 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 06:05:39 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 06:05:39 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 06:24:23 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 06:24:24 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 06:24:39 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 06:24:39 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 06:25:41 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 06:25:41 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 06:28:21 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 06:28:21 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 06:54:03 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 06:54:03 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 06:54:11 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 06:54:11 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 06:54:14 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 06:54:14 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 06:59:48 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 06:59:48 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 06:59:50 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 06:59:50 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 07:05:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/screept/public_html/include/phpmailer/PHPMailer.php:1410
+Stack trace:
+#0 /home2/screept/public_html/include/phpmailer/PHPMailer.php(1348): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/screept/public_html/signup.php(109): PHPMailer\PHPMailer\PHPMailer->send()
+#2 /home2/screept/public_html/loader.php(54): require('/home2/screept/...')
+#3 {main}
+  thrown in /home2/screept/public_html/include/phpmailer/PHPMailer.php on line 1410
+[20-Jan-2020 07:15:34 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home2/screept/public_html/include/phpmailer/PHPMailer.php:1410
+Stack trace:
+#0 /home2/screept/public_html/include/phpmailer/PHPMailer.php(1348): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home2/screept/public_html/signup.php(110): PHPMailer\PHPMailer\PHPMailer->send()
+#2 /home2/screept/public_html/loader.php(54): require('/home2/screept/...')
+#3 {main}
+  thrown in /home2/screept/public_html/include/phpmailer/PHPMailer.php on line 1410
+[20-Jan-2020 07:18:22 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:errors.tpl' <-- 
+  thrown in /home2/screept/public_html/include/smarty/libs/sysplugins/smarty_internal_template.php on line 187
+[20-Jan-2020 07:25:18 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 07:25:18 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 07:27:03 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 07:27:03 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 08:22:20 America/Chicago] PHP Warning:  require(games.php): failed to open stream: No such file or directory in /home2/screept/public_html/loader.php on line 54
+[20-Jan-2020 08:22:20 America/Chicago] PHP Fatal error:  require(): Failed opening required 'games.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/screept/public_html/loader.php on line 54

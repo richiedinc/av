@@ -1,0 +1,13 @@
+[30-Jan-2019 12:32:23 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home2/velotube/public_html/templates/backend/default/videos_queue.tpl"  on line 44 "<td class="{if $smarty.foreach.ad_block.iteration mod 2 == 1}grey{else}white{/if}">{$que.start|queue}</td>" unknown modifier 'queue' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 44
+[30-Jan-2019 12:32:41 America/Chicago] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home2/velotube/public_html/templates/backend/default/videos_queue.tpl"  on line 44 "<td class="{if $smarty.foreach.ad_block.iteration mod 2 == 1}grey{else}white{/if}">{$que.start|queue}</td>" unknown modifier 'queue' <-- 
+  thrown in /home2/velotube/public_html/include/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 44
+[30-Jan-2019 12:41:28 America/Chicago] PHP Fatal error:  Call to undefined function check_queue() in /home2/velotube/public_html/include/config.php on line 97
+[30-Jan-2019 14:37:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/velotube/public_html/include/function_conversion_sp.php on line 135
+[15-Jan-2020 07:50:37 America/Chicago] PHP Parse error:  syntax error, unexpected '_id' (T_STRING) in /home2/velotube/public_html/siteadmin/modules/index/main.php on line 34
+[15-Jan-2020 07:51:31 America/Chicago] PHP Parse error:  syntax error, unexpected '_id' (T_STRING) in /home2/velotube/public_html/siteadmin/modules/index/main.php on line 34
+[16-Jan-2020 04:46:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getrows() on boolean in /home2/velotube/public_html/siteadmin/modules/index/dashboard.php:104
+Stack trace:
+#0 /home2/velotube/public_html/siteadmin/index.php(27): require()
+#1 {main}
+  thrown in /home2/velotube/public_html/siteadmin/modules/index/dashboard.php on line 104
